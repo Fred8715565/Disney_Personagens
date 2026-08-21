@@ -12,26 +12,27 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "/Disney_Personagens/img/disney icon.jpg",
+            "src": "/Disney_Personagens/img/disney-icon.jpg",
             "sizes": "192x192",
-            "type": "image/png",
+            "type": "image/jpeg",
             "purpose": "any"
         },
         {
-            "src": "/Disney_Personagens/img/disney icon.jpg",
+            "src": "/Disney_Personagens/img/disney-icon.jpg",
             "sizes": "512x512",
-            "type": "image/png",
+            "type": "image/jpeg",
             "purpose": "any"
-            {
-            "src": "/Disney_Personagens/img/disney icon.jpg",
+        },
+        {
+            "src": "/Disney_Personagens/img/disney-icon.jpg",
             "sizes": "192x192",
-            "type": "image/png",
+            "type": "image/jpeg",
             "purpose": "maskable"
         },
         {
-            "src": "/Disney_Personagens/img/disney icon.jpg",
+            "src": "/Disney_Personagens/img/disney-icon.jpg",
             "sizes": "512x512",
-            "type": "image/png",
+            "type": "image/jpeg",
             "purpose": "maskable"
         }
     ]
