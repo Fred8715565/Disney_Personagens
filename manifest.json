@@ -2,7 +2,7 @@
     "name": "Meu Disney",
     "short_name": "Meu Disney",
     "description": "Personagens da Disney",
-    "start_url": "/https://github.com/Fred8715565/Disney_Personagens.git",
+    "start_url": "https://fred8715565.github.io/Disney_Personagens/",
     "scope": "/Disney_Personagens/",
     "id": "/Disney_Personagens/",
     "display": "standalone",
