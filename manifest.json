@@ -2,9 +2,9 @@
     "name": "Meu Disney",
     "short_name": "Meu Disney",
     "description": "Personagens da Disney",
-    "start_url": "/missao_117/",
-    "scope": "/missao_117/",
-    "id": "/missao_117/",
+    "start_url": "/Disney_Personagens/",
+    "scope": "/Disney_Personagens/",
+    "id": "/Disney_Personagens/",
     "display": "standalone",
     "background_color": "#121212",
     "theme_color": "#121212",
@@ -12,25 +12,25 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "/missao_117/img/disney.png",
+            "src": "/Disney_Personagens/img/disney.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "/missao_117/img/disney.png",
+            "src": "/Disney_Personagens/img/disney.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "/missao_117/img/disney.png",
+            "src": "/Disney_Personagens/img/disney.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "/missao_117/img/disney.png",
+            "src": "/Disney_Personagens/img/disney.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
